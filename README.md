@@ -3,7 +3,7 @@
 ## Dataset
 
 The dataset used for this project is available on Kaggle at the following link:  
-🔗 [Kaggle Dataset](https://www.kaggle.com/)
+🔗 [Kaggle Dataset](https://www.kaggle.com/datasets/ayotomiwasalau/club-football-event-data)
 
 ## Project Structure
 
@@ -11,14 +11,8 @@ The project is organized into the following directories:
 
 ### 📁 `documents/`
 
-This folder contains all files related to the **design phase** of the data warehouse, including:
-
-- Entity-Relationship diagrams
-- Dimensional modeling documents
-- Notes and specifications used during development
-
+This folder contains all files related to the **design phase** of the data warehouse, including: Attribute Tree, DFM Schema, Star Schema, etc.
 Although these materials are also summarized in the final report, the original files are provided here for completeness.
-
 Additionally, this folder includes an **Excel file** containing **Data Quality Index tables**, which detail the metrics and indicators evaluated during the project.
 
 ---
